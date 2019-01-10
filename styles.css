@@ -1,0 +1,23 @@
+body {
+    background-color:rgba(55, 54, 56, 0.979);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+pre {
+    border: 3px solid cyan;
+    padding: 20px;
+    margin: 40px;
+    color: rgba(150, 50, 32, 0.5);
+    background-color: rgba(248, 248, 248, 0.5)
+}
+
+pre.error {
+    color: red;
+}
